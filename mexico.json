@@ -1,0 +1,359 @@
+{
+
+	"mapwidth":"320",
+	"mapheight":"200",
+	"categories":[],
+	"levels":[
+		{
+			"id":"Mexico",
+			"title":"Mexico",
+			"map":"maps/mexicoHigh.svg",
+			"locations":[
+				{
+					"id": "MX-AGU",
+					"title": "Aguascalientes",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>18</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>9</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%''>11</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>12</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>86</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5042",
+					"y": "0.5850",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/aguascalientes/"				},
+				{
+					"id": "MX-BCN",
+					"title": "Baja California",
+					"description": "<table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>17</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>8</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>5</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>5</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>63</td><td>Regidurías</td></tr></tbody></table>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.1558",
+					"action":"lightbox",
+					"y": "0.1677",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/baja-california/"
+				},
+				{
+					"id": "MX-BCS",
+					"title": "Baja California Sur",
+					"description": "<table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>16</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>5</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>5</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>5</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>48</td><td>Regidurías</td></tr></tbody></table>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.2641",
+					"y": "0.4375",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/baja-california-sur/"
+				},
+				{
+					"id": "MX-CAM",
+					"title": "Campeche",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>21</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>14</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>13</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>28</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>102</td><td>Regidurías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>132</td><td>Juntas Municipales / Concejales / Presidencias de Comunidad</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.8250",
+					"y": "0.7242",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/campeche/"
+				},
+				{
+					"id": "MX-CHH",
+					"title": "Chihuahua",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>22</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>11</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>67</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>67</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>714</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.3953",
+					"y": "0.2542",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/chihuahua/"
+				},
+				{
+					"id": "MX-CHP",
+					"title": "Chiapas",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>24</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>16</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>123*</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>123</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>856</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.7621",
+					"y": "0.8296",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/chiapas/"
+				},
+				{
+					"id": "MX-COA",
+					"title": "Coahuila",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>38</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>76</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>400</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5068",
+					"y": "0.3217",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/coahuila/"
+				},
+				{
+					"id": "MX-COL",
+					"title": "Colima",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>16</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>9</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>10</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>10</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>94</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.4617",
+					"y": "0.7175",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/colima/"
+				},
+				{
+					"id": "MX-DIF",
+					"title": "Ciudad de México",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>33</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>33</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>16*</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>204</td><td>Juntas Municipales / Concejales / Presidencias de Comunidad</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5893",
+					"y": "0.7117",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/ciudad-de-mexico/"
+				},
+				{
+					"id": "MX-DUR",
+					"title": "Durango",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>15</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>10</td><td>Diputaciones de representación proporcional</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.4323",
+					"y": "0.4433",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/durango/"
+				},
+				{
+					"id": "MX-GRO",
+					"title": "Guerrero",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>28</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>18</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>80</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>85</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>580</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5690",
+					"y": "0.7742",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/guerrero/"
+				},
+				{
+					"id": "MX-GUA",
+					"title": "Guanajuato",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>22</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>14</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>46</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>52</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>418</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5365",
+					"y": "0.6350",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/guanajuato/"
+				},
+				{
+					"id": "MX-HID",
+					"title": "Hidalgo",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>18</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>12</td><td>Diputaciones de representación proporcional</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5938",
+					"y": "0.6508",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/?location=hidalgo-2021"
+				},
+				{
+					"id": "MX-JAL",
+					"title": "Jalisco",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>20</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>18</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>125</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>125</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>1464</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.4682",
+					"y": "0.6617",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/jalisco/"
+				},
+				{
+					"id": "MX-MEX",
+					"title": "Estado de México",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>45</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>30</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>125</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>198</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>1856</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5726",
+					"y": "0.7033",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/estado-de-mexico/"
+				},
+				{
+					"id": "MX-MIC",
+					"title": "Michoacán",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th colspan='2' style='text-align: center; background-color: #efefef;'>Proceso electoral Local</th></tr></thead><tbody><tr><td width='20%' style='text-align: center;font-weight: 600;'>1</td><td>Gubernatura</td></tr><tr><td width='20%' style='text-align: center;font-weight: 600;'>24</td><td>Diputaciones de mayoría relativa</td></tr><tr><td width='20%' style='text-align: center;font-weight: 600;'>16</td><td>Diputaciones de representación proporcional</td></tr><tr><td width='20%' style='text-align: center;font-weight: 600;'>112</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td width='20%' style='text-align: center;font-weight: 600;'>112</td><td>Sindicaturas</td></tr><tr><td width='20%' style='text-align: center;font-weight: 600;'>874</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5185",
+					"y": "0.7108",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/michoacan/"
+				},
+				{
+					"id": "MX-MOR",
+					"title": "Morelos",
+					"description": "<p>Morelos</p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5911",
+					"y": "0.7358",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/morelos/"
+				},
+				{
+					"id": "MX-NAY",
+					"title": "Nayarit",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>18</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>12</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>20</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>20</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>197</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.4349",
+					"y": "0.5829",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/?location=nayarit-2021"
+				},
+				{
+					"id": "MX-NEL",
+					"title": "Nuevo León",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>26</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>16</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>51</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>77</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>449</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5742",
+					"y": "0.4152",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/nuevo-leon/"
+				},{
+					"id": "MX-OAX",
+					"title": "Oaxaca",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>25</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>17</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>153</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>162</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>1070</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.6552",
+					"y": "0.8150",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/oaxaca/"
+				},{
+					"id": "MX-PUE",
+					"title": "Puebla",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>26</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>15</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>217</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>217</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>1810</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.6206",
+					"y": "0.7408",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/puebla/"
+				},{
+					"id": "MX-QUE",
+					"title": "Querétaro",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>15</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>10</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>18</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>36</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>148</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5674",
+					"y": "0.6475",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/queretaro/"
+				},{
+					"id": "MX-ROO",
+					"title": "Quintana Roo",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>11</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>11</td><td>Sinducaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>117</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.8746",
+					"y": "0.7021",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/quintana-roo/"
+				},{
+					"id": "MX-SIN",
+					"title": "Sinaloa",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>24</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>16</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>18</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>18</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>153</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.3661",
+					"y": "0.4433",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/sinaloa/"
+				},{
+					"id": "MX-SLP",
+					"title": "San Luis Potosí",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>15</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>12</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>58</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>64</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>387</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.5510",
+					"y": "0.5525",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/san-luis-potosi/"
+				},{
+					"id": "MX-SON",
+					"title": "Sonora",
+					"description": "<table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>21</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>12</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>72</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>72</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>486</td><td>Regidurías</td></tr></tbody></table>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.2808",
+					"y": "0.2110",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/sonora/"
+				},{
+					"id": "MX-TAB",
+					"title": "Tabasco",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>21</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>14</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>17</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>17</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>51</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.7596",
+					"y": "0.7573",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/tabasco/"
+				},{
+					"id": "MX-TAM",
+					"title": "Tamaulipas",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>22</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>14</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>43</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>58</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>407</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.6039",
+					"y": "0.4883",
+					"action":"lightbox",					
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/tamaulipas/"
+                },
+                {
+					"id": "MX-TLA",
+					"title": "Tlaxcala",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>15</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>10</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>60</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>60</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>350</td><td>Regidurías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>299</td><td>Juntas Municipales / Concejales / Presidencias de Comunidad</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.6161",
+					"y": "0.7025",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/tlaxcala/"
+                },
+                {
+					"id": "MX-VER",
+					"title": "Veracruz",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>30</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>20</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>212</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>212</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>633</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.6573",
+					"y": "0.7133",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/veracruz/"
+                },
+                {
+					"id": "MX-YUC",
+					"title": "Yucatán",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>15</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>10</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>106</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>106</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>581</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.8578",
+					"y": "0.6379",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/yucatan/"
+                },
+                {
+					"id": "MX-ZAC",
+					"title": "Zacatecas",
+					"description": "<p><table class='table table-sm table-bordered' style='font-size: 14px;'><thead><tr><th style='text-align: center; background-color: #efefef;' colspan='2'>Proceso electoral Local</th></tr></thead><tbody><tr><td style='text-align: center; font-weight: 600;' width='20%'>1</td><td>Gubernatura</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>18</td><td>Diputaciones de mayoría relativa</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>12</td><td>Diputaciones de representación proporcional</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>58</td><td>Presidencias Municipales y Alcaldías</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>58</td><td>Sindicaturas</td></tr><tr><td style='text-align: center; font-weight: 600;' width='20%'>547</td><td>Regidurías</td></tr></tbody></table></p>",
+					"pin": "circular",
+					"fill": "#FB7575",
+					"x": "0.4880",
+					"y": "0.5083",
+					"action":"lightbox",
+					"link": "https://www.ine.mx/voto-y-elecciones/elecciones-2021/zacatecas/"
+				}
+				
+			]
+		}
+	]
+}

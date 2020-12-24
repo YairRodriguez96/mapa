@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Meta -->
+		<meta charset="utf-8">
+		<!-- Viewport for Responsivity -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+		<!-- Favicon -->
+		<link rel="shortcut icon" type="image/png" href="favicon.png"/>
+		<!-- Stylesheets -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="mapplic/mapplic.css">
+		<link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+		<link rel="stylesheet" type="text/css" href="css/mapplic.css">
+	</head>
+	<body>
+		<div id="wrap">
+			<!-- Site header -->
+			<header id="header">
+				<div class="inner">
+					<div class="clear"></div>
+				</div>
+			</header>
+			<!-- Site content -->
+
+
+			<div id="content">
+				<section id="map-section" class="inner over">
+					<div class="editor-window">
+						<div class="editor-body">				
+						</div>
+					</div>
+
+
+					<div class="map-container">
+						<div id="mapplic"></div> <!-- Map -->
+					</div>
+
+
+
+					
+				</section>
+			</div>
+		</div>
+
+		<!-- Scripts -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="js/script.js"></script>
+		<script type="text/javascript" src="mapplic/mapplic.js"></script>
+		<script type="text/javascript" src="js/magnific-popup.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#mapplic').mapplic({
+					source: 'mexico.json',
+					height: 260,
+					sidebar: true,
+					alphabetic: true,
+					fillcolor: "#cccccc",
+					maxscale: 3,
+					zoom: true,
+					zoombuttons:true,
+					mousewheel:true,
+					closezoomout: true,
+					lightbox: true,
+				});
+			});
+		</script>
+	</body>
+</html>
